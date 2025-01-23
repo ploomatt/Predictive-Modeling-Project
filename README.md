@@ -9,7 +9,7 @@ This project involves using various models to predict wine quality using alcohol
 >Different Machine Learning techniques used were: Simple linear Regression, Multiple Linear Regression, Regression Trees, Support Vector regression, and Multiple Perceptron(MLP) modeling.
 ## Data
 #### Data Source
->https://archive.ics.uci.edu/dataset/186/wine+quality
+>https://archive.ics.uci.edu/dataset/186/wine+quality <br>
 >The Data in this project will be attached as 'qWine'
 #### Data Structure
 >The data mainly used in this project are: <br>
