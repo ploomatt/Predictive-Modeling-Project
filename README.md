@@ -14,6 +14,7 @@ This project involves using various models to predict wine quality using alcohol
 #### Data Structure
 >All the variables that are in this data set:
 >>Fixed Acidity: <br>
+
 >The data mainly used in this project are: <br>
 >>Quality: The quality of wine attached to each wine.
 >>
