@@ -12,10 +12,6 @@ This project involves using various models to predict wine quality using alcohol
 >https://archive.ics.uci.edu/dataset/186/wine+quality
 >The Data in this project will be attached as 'qWine'
 #### Data Structure
->All the variables that are in this data set:
->>Fixed Acidity: A wine's natural acids that do not disappear when boiled
->>BRBR <br>
-
 >The data mainly used in this project are: <br>
 >>Quality: The quality of wine attached to each wine.
 >>
