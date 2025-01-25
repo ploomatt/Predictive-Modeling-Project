@@ -25,6 +25,7 @@ This project involves using various models in python to predict wine quality usi
 >In this project, multiple machine learning models were tested to predict wine quality using alcohol content as the predictor variable. Among all the models evaluated, Support Vector Regression (SVR) with a hyperparameter setting of C=250 emerged as the most accurate. Key performance metrics for this model are as follows:
 >**Mean Absolute Error (MAE): 0.036
 >**Root Mean Squared Error (RMSE): 0.048<br>
+>>
 >These results indicate that the SVR(C=250) model made predictions closest to the actual values with minimal error compared to other models. The low MAE and RMSE values demonstrate the model's ability to handle the complexity of the dataset effectively, capturing non-linear patterns in the relationship between alcohol content and wine quality.<br>
 #### Business Data Science Implications
 >This project exemplifies the critical application of predictive analytics in a business context, highlighting skills and methods essential for informed decision-making. Key takeaways include:<br>
