@@ -1,6 +1,6 @@
 # Predictive-Modeling-Project
 Description: 
-This project involves using various models to predict wine quality using alcohol content in wines
+This project involves using various models in python to predict wine quality using alcohol content in wines
 
 ## Project Overview
 #### Motivation
