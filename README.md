@@ -14,7 +14,7 @@ This project involves using various models in python to predict wine quality usi
 #### Data Structure
 >The data mainly used in this project are: <br>
 >>Quality: The quality of wine attached to each wine. <br>
->>Alcohol: The alcohol amount given in each wine.
+>>Alcohol: The alcohol amount given in each wine. <br>
 >(Alcohol can be interchanged with other variables to see their effect on wine quality)
 ## Technologies & Libraries
 >VsCode(IDE)<br>
