@@ -36,7 +36,7 @@ This project involves using various models to predict wine quality using alcohol
 >Understanding the relationships between variables, such as alcohol content and wine quality, can drive strategic initiatives like forecasting demand, refining pricing strategies, and enhancing customer segmentation.
 ##### 4. Tailored Model Selection
 >The selection and tuning of SVR(C=250) underline the importance of customizing models to meet specific business needs, ensuring that predictive solutions align with organizational goals.
-#### Flexibility of the Approach
+### Flexibility of the Approach
 >While alcohol was used as the predictor variable in this project, the same methodology can be applied to predict wine quality using other variables (e.g., acidity, sugar content, pH levels, or sulfates). This flexibility ensures that the model can adapt to various feature sets, depending on the context and available data, making it a versatile tool for predictive analytics in the wine industry and beyond.
 
 
